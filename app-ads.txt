@@ -1,6 +1,6 @@
 # App-ads.txt for Fit the Cubes
 # Developer: Daniel Rodríguez, Potipot Games
 
-ironsource.com, 742c79f5, DIRECT
-unityads.unity3d.com, 742c79f5, DIRECT
+ironsource.com, 2258277fd, DIRECT
+unityads.unity3d.com, 2258277fd, DIRECT
 google.com, pub-1941638982808604, DIRECT, f08c47fec0942fa0
