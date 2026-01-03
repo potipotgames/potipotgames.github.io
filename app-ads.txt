@@ -3,4 +3,4 @@
 
 ironsource.com, 742c79f5, DIRECT
 unityads.unity3d.com, 742c79f5, DIRECT
-google.com, pub-XXXXXXXXXXXXXXXX, RESELLER
+google.com, pub-1941638982808604, DIRECT, f08c47fec0942fa0
